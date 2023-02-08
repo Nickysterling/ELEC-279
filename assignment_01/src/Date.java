@@ -263,6 +263,9 @@ public class Date
             else
                 System.out.println("Illegal date. Reenter input.");
          }
+        
+        keyboard.close();
+        
     }
 
 	/* Function that is used to check if a date is valid;

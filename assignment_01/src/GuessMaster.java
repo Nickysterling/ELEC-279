@@ -51,6 +51,9 @@ public class GuessMaster {
                 userGuess = sc.nextLine();
             }
         }
+        
+        sc.close();
+        
     }
 
     public void playGame(int entityInd) {
