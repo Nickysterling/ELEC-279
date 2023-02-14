@@ -1,5 +1,9 @@
 
-/*Import statements*/
+// name: Nicholas Seegobin
+// student_number: 20246787
+// date_of_submission: 02/15/2023
+
+/* Import statements */
 import java.util.Scanner;
 
 public class Date
